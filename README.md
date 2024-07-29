@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# GitHub Profile Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=337ubaid&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+
+
 <!--
 **337ubaid/337ubaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
